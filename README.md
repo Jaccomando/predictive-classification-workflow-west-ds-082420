@@ -1,3 +1,3 @@
-# predictive-classification-workflow-chicago-seattle-ds-051120
+# Predictive Classification Workflow
 
-See the solution branch for executed code
+Using the Titanic dataset for a classification workflow example
